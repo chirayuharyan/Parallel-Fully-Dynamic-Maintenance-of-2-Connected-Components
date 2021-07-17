@@ -32,5 +32,5 @@ For our implementations we present the constraints and input format for the inpu
 - The following *m* lines contains the endpoints of edges space-seperated.
 - As the graph is undirected, for an edge between vertex *x* and *y*, we provide two edges in the input namely *(x , y)* and *(y , x)*.
 
-In the *Data Preprocessing* directory, we provide the scripts to convert the datasets and also the instructions to run the scripts.
+In the *Data Preprocessing* directory, we provide the scripts to convert the datasets and also the [instructions](Data-Processing/README.md) to run the scripts.
 
