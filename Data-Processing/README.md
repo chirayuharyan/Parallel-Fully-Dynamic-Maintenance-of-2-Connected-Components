@@ -10,8 +10,8 @@ For our implementations we present the constraints and format for the input grap
 
 #### Instructions to run the data-preprocessing code:
 **Step 1: Extract the raw dataset and copy the graph file in *RawDataset* directory.**
-	
-	Extract the files using *tar* or *gzip* whichever appropriate. Sometimes compressed files contains a folder, inside which there are graph files and some other files consisting of meta-data like coordinates. Move the graph file to the *RawDataset* directory and delete the rest of the files. 
+
+Extract the files using *tar* or *gzip* whichever appropriate. Sometimes compressed files contains a folder, inside which there are graph files and some other files consisting of meta-data like coordinates. Move the graph file to the *RawDataset* directory and delete the rest of the files. 
 
 **Step 2: Run preprocessing python script**
 
