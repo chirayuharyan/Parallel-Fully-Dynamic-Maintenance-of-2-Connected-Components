@@ -1,0 +1,1058 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"color",
+				"colors"
+			],
+			[
+				"total",
+				"totalRows"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"totalT",
+				"totalTreeQueries"
+			],
+			[
+				"thread",
+				"threadCount"
+			],
+			[
+				"batc",
+				"batchSize"
+			],
+			[
+				"bat",
+				"batchSizeString"
+			],
+			[
+				"batchSi",
+				"batchSizeString"
+			],
+			[
+				"curr",
+				"currDataset"
+			],
+			[
+				"c",
+				"currDataset"
+			],
+			[
+				"y",
+				"ylabel"
+			],
+			[
+				"currRe",
+				"currResult"
+			],
+			[
+				"t",
+				"threadCount"
+			],
+			[
+				"th",
+				"threadCount"
+			],
+			[
+				"num",
+				"numberOfDataset"
+			],
+			[
+				"currB",
+				"currBatchSize"
+			],
+			[
+				"batchFi",
+				"batchFiles"
+			],
+			[
+				"batch",
+				"batchFiles"
+			],
+			[
+				"currV",
+				"currValue"
+			],
+			[
+				"currKe",
+				"currKeyDouble"
+			],
+			[
+				"totalBa",
+				"totalBatchFiles"
+			],
+			[
+				"qu",
+				"queryAddMultiple"
+			],
+			[
+				"query",
+				"queryPointer"
+			],
+			[
+				"quer",
+				"queryPointer"
+			],
+			[
+				"edges",
+				"edgesToInsert"
+			],
+			[
+				"batchS",
+				"batchString"
+			],
+			[
+				"to",
+				"totalEdges"
+			],
+			[
+				"Proces",
+				"processYifanhu"
+			],
+			[
+				"dataset",
+				"datasetName"
+			],
+			[
+				"cr",
+				"currBatchSize"
+			],
+			[
+				"out",
+				"outputFile"
+			],
+			[
+				"threads",
+				"threadsHFile"
+			],
+			[
+				"threa",
+				"threadsHFile"
+			],
+			[
+				"batchSiz",
+				"batchSizeInt"
+			],
+			[
+				"edge",
+				"edgeList"
+			],
+			[
+				"unordered",
+				"unordered_map\tstandard header (since c++11)"
+			],
+			[
+				"temp",
+				"tempFile"
+			],
+			[
+				"add",
+				"add_edges_from"
+			],
+			[
+				"baseVer",
+				"baseVertexU"
+			],
+			[
+				"partially",
+				"partiallyAffectedBaseVertices"
+			],
+			[
+				"headAffe",
+				"headAffectedLCA"
+			],
+			[
+				"isBaseVe",
+				"isBaseVertexV"
+			],
+			[
+				"isBaseV",
+				"isBaseVertexV"
+			],
+			[
+				"isBaseVer",
+				"isBaseVertexV"
+			],
+			[
+				"headAffecte",
+				"headAffectedBaseVertices"
+			],
+			[
+				"affected",
+				"affectedLCA"
+			],
+			[
+				"findLCA",
+				"findLCAisVisited"
+			],
+			[
+				"isSpecia",
+				"isSpecial"
+			],
+			[
+				"isNew",
+				"isNewBase2"
+			],
+			[
+				"isNewB",
+				"isNewBase1"
+			],
+			[
+				"isOldBas",
+				"isOldBase1"
+			],
+			[
+				"isOldBa",
+				"isOldBase2"
+			],
+			[
+				"isOldB",
+				"isOldBase1"
+			],
+			[
+				"affecte",
+				"affectedLCASet"
+			],
+			[
+				"postProc",
+				"postProcessed"
+			],
+			[
+				"postPro",
+				"postProcessed"
+			],
+			[
+				"findL",
+				"findLCACount"
+			],
+			[
+				"cutV",
+				"cutVertex1"
+			],
+			[
+				"baseV",
+				"baseVertexV"
+			],
+			[
+				"oldBas",
+				"oldBase1"
+			],
+			[
+				"u",
+				"utility\tstandard header"
+			],
+			[
+				"cutVer",
+				"cutVertex"
+			],
+			[
+				"currEd",
+				"currEdgePointer"
+			],
+			[
+				"currE",
+				"currEdge"
+			],
+			[
+				"currEdge",
+				"currEdgePointer"
+			],
+			[
+				"cur",
+				"currEdge"
+			],
+			[
+				"numb",
+				"number_of_nodes"
+			],
+			[
+				"baseVerte",
+				"baseVertex1"
+			],
+			[
+				"Head",
+				"headAffectedLCA"
+			],
+			[
+				"affect",
+				"affectedLCA"
+			],
+			[
+				"Spanning",
+				"SpanningTree"
+			],
+			[
+				"querie",
+				"queriesU"
+			],
+			[
+				"queri",
+				"queriesU"
+			],
+			[
+				"queries",
+				"queriesU"
+			],
+			[
+				"newBase",
+				"newBase2"
+			],
+			[
+				"newBas",
+				"newBase1"
+			],
+			[
+				"oldBa",
+				"oldBase2"
+			],
+			[
+				"totalCOmpo",
+				"totalComponentsRoot"
+			],
+			[
+				"oldB",
+				"oldBase2"
+			],
+			[
+				"totalCompo",
+				"totalComponents"
+			],
+			[
+				"totalCompon",
+				"totalComponentsGlobal"
+			],
+			[
+				"adjacency",
+				"adjacencyList1"
+			],
+			[
+				"baseVe",
+				"baseVertexU"
+			],
+			[
+				"visited",
+				"visitedLocal"
+			],
+			[
+				"edgeL",
+				"edgeListCombined"
+			],
+			[
+				"tree",
+				"treeEdge"
+			],
+			[
+				"cutVe",
+				"cutVertex2"
+			],
+			[
+				"component",
+				"componentNumber"
+			],
+			[
+				"neigh",
+				"neighbour"
+			],
+			[
+				"NOT_VI",
+				"NOT_VISITED_MARKER"
+			],
+			[
+				"isCut",
+				"isCutVertexVisited"
+			],
+			[
+				"unorde",
+				"unordered_map\tstandard header (since c++11)"
+			],
+			[
+				"vertex",
+				"vertexHashMap"
+			],
+			[
+				"spanning",
+				"spanningMain"
+			],
+			[
+				"spaningR",
+				"spanningTreeVisited"
+			],
+			[
+				"end",
+				"end_time"
+			],
+			[
+				"in",
+				"inputFile"
+			],
+			[
+				"inpu",
+				"inputCSV"
+			],
+			[
+				"input",
+				"inputCSV"
+			],
+			[
+				"isSPe",
+				"isSpecialtemp"
+			],
+			[
+				"isSpe",
+				"isSpecialTemp"
+			],
+			[
+				"isSpec",
+				"isSpecial"
+			],
+			[
+				"postProce",
+				"postPorcessed"
+			],
+			[
+				"neighbo",
+				"neighbours"
+			],
+			[
+				"neighb",
+				"neighboursVector"
+			],
+			[
+				"tota",
+				"totalBatch"
+			],
+			[
+				"newBA",
+				"newBase2"
+			],
+			[
+				"delete",
+				"deleteNonTreeEdge"
+			],
+			[
+				"newNe",
+				"newNeighbour1"
+			],
+			[
+				"newNei",
+				"newNeighbour"
+			],
+			[
+				"push",
+				"push_back\tfunc"
+			],
+			[
+				"bridg",
+				"bridgesList"
+			],
+			[
+				"brd",
+				"bridgesList"
+			],
+			[
+				"unor",
+				"unordered_map\tstandard header (since c++11)"
+			],
+			[
+				"get",
+				"getCutVertices"
+			],
+			[
+				"unfinished",
+				"unfinishedTraversal"
+			],
+			[
+				"unfinish",
+				"unfinishedTraversal"
+			],
+			[
+				"unfinis",
+				"unfinishedTraversal"
+			],
+			[
+				"unfini",
+				"unfinishedTraversal"
+			],
+			[
+				"unfidh",
+				"unfinishedTraversal"
+			],
+			[
+				"un",
+				"unordered_map\tstandard header (since c++11)"
+			],
+			[
+				"unorder",
+				"unordered_map\tstandard header (since c++11)"
+			],
+			[
+				"timeAntiRi",
+				"timeAntiRisk2"
+			],
+			[
+				"shortestP",
+				"shortestPathParent"
+			],
+			[
+				"detour",
+				"detourPathArray"
+			],
+			[
+				"shortest",
+				"shortestPathParent"
+			],
+			[
+				"qeur",
+				"queryOutput"
+			],
+			[
+				"totalV",
+				"totalVisited"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package di",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"e",
+				"Package Control: Enable Package"
+			],
+			[
+				"fort",
+				"Set Syntax: Fortran (Modern)"
+			],
+			[
+				"disap",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: List Packages"
+			],
+			[
+				"sft",
+				"SFTP: Setup Server…"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pl",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/Output/scaling.py",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedMultiCore/main.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/Output/outwebbase-2001.txt",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedMultiCore/deleteEdge.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/dataset/Real/Processed/amazon0302.txt",
+		"/home/chirayu/Desktop/Untitled Document 1",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/Output/outweb-Stanford.txt",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/Output/outamazon0302.txt",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/Output/outcom-orkut.ungraph.txt",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/QueriesMultiCore/createQueriesAdd3.py",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/Output/toCSV.py",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/Output/outsoc-LiveJournal1.txt",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/Output/outroadNet-PA.txt",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/Output/outcit-Patents.txt",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/Output/outweb-Google.txt",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/runAllScript.py",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/dataset/Real/Processed/web-Stanford.txt",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/README.md",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/biconnectedSlota/Makefile",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/biconnectedBaseline/Makefile",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/biconnectedSlota/main.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/biconnectedAddDynamic/add.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/biconnectedAddDynamic/Makefile",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/biconnectedBaseline/baseline.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/runScript.py",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/queryGenerationScript.py",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/QueryGeneration/Makefile",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/QueryGeneration/queryAddMultiple.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/QueryGeneration/queryAdd.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedMultiCore/lca.h",
+		"/home/chirayu/Desktop/VPN/New VPN/bin/iittpvpn__ssl_vpn_config.ovpn",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/RawDataset/README.md",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/Data-Preprocessing/dataProcessSNAP.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/Data-Preprocessing/dataProcessYifanhu.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/dataPreprocessing.py",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/dataset/Real/Data Processor/C Program/dataProcessYifanhu.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/dataset/Real/Data Processor/C Program/Makefile",
+		"/tmp/mozilla_chirayu0/Dynamic BiCC - Graph.csv",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/Output/plot2CSV.py",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/Output/plot1CSV.py",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/Output/out.txt",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/Output/plot2.py",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/Output/plot1.py",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/Dataset/soc-LiveJournal1.txt",
+		"/home/chirayu/Downloads/outamazon0302.txt",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/Output/README.md",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/biconnectedSparcification/sparcification.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/biconnectedSparcification/bfs.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/biconnectedSparcification/Makefile",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/Query/README.md",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/Dataset/README.md",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/Dataset/amazon0302.txt",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/dataset/Real/Processed/com-orkut.ungraph.txt",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/dataset/Real/Processed/europe_osm.txt",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAdd/README.md",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAll/README",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiconnectedAll/queryGenerationScript.py",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiconnectedAll/runScript.py",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiconnectedAll/QueryGeneration/queryAdd.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiconnectedAll/QueryGeneration/Makefile",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiconnectedAll/scriptAddOnly.py",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiconnectedAll/biconnectedSlota/Makefile",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiconnectedAll/biconnectedSparcification/Makefile",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiconnectedAll/biconnectedAddDynamic/Makefile",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiconnectedAll/biconnectedBaseline/Makefile",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiconnectedAll/biconnectedSparcification/threads.h",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiconnectedAll/biconnectedSlota/thread.h",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiconnectedAll/biconnectedSlota/threads.h",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiconnectedAll/biconnectedBaseline/threads.h",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiconnectedAll/biconnectedAddDynamic/threads.h",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/temp.txt",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAdd/add.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedSparcification/sparcification.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedSparcification/isCutVertex.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedSparcification/threads.h",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedSparcification/Makefile",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiCC-HiPC14/main.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiCC-HiPC14/bcc_bfs.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/LCA_BFS_BiCC/main.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/LCA_BFS_BiCC/bcc_bfs.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedBaseline/baseline.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiconnectedAll/biconnectedAddDynamic/add.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiconnectedAll/biconnectedSlota/main.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedBaseline/isCutVertex.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiconnectedAll/biconnectedBaseline/baseline.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/QueriesMultiCore/C Program/queryAdd.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/QueriesMultiCore/C Program/Makefile",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/QueriesMultiCore/C Program/scriptAddOnly.py",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAdd/isCutVertex.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/dataset/Real/Data Processor/2_dataFormat.py",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/dataset/Real/Data Processor/C Program/unweightedGraph.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/dataset/Real/Data Processor/C Program/dataProcessSNAP.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/dataset/Real/Data Processor/C Program/dataset.txt",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/dataset/Real/Data Processor/C Program/bfs.h",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/dataset/Real/Data Processor/C Program/bfs.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAdd/threads.h",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAdd/unweightedGraph.h",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAdd/unweightedGraph.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedAdd/Makefile",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/dataset/Real/Data Processor/C Program/make",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/dataset/Real/Data Processor/dataProcessSNAP.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiCC-HiPC14/thread.h",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiCC-HiPC14/bcc/bcc_bfs.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiCC-HiPC14/bcc/main.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiCC-HiPC14/bcc/util.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiCC-HiPC14/bcc/thread.h",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiCC-HiPC14/bcc/bcc_bfs.h",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/LCA_BFS_BiCC/bcc_bfs.h",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiCC-HiPC14/bcc/Makefile",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/BiCC-HiPC14/bcc/graph.h",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/LCA_BFS_BiCC/graph.h",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/LCA_BFS_BiCC/Makefile",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedBaseline/Makefile",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Nikhil/FinalCode/verify.py",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/QueriesMultiCore/scriptAddOnly.py",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/dataset/create.py",
+		"/tmp/mozilla_chirayu0/example1.rb",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/dataset/Real/Data Processor/master.py",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/dataset/Real/Raw/cit-HepPh.txt.gz",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedMultiCore/lca.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedMultiCore/addEdge.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedMultiCore/deleteEdge.h",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedMultiCore/addEdge.h",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedMultiCore/dynamicGraph.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedMultiCore/unweightedGraph.h",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedMultiCore/Makefile",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedMultiCore/spanningTree.cpp",
+		"/media/chirayu/D60013AD00139419/Study/Study/MS/Workspace-Ubuntu/Biconnected/biconnectedMultiCore/spanningTree.h"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Set1_r",
+			"headPartiallyAffectedLCA",
+			"argv",
+			"int u",
+			"addNon",
+			"64",
+			":\n",
+			"set_",
+			"totalCo",
+			"nowait",
+			"time",
+			"void",
+			"bcc_bfs_do_bfs(graph* g, int root,\n  int* parents, int* levels, \n  int**& level_queues, int* level_counts, int& num_levels)",
+			"bcc_bfs_do_bfs(graph* g, int root,\n  int* parents, int* levels, \n  int**& level_queues, int* level_counts, int& num_levels);\n",
+			".size",
+			"x",
+			"postPorcessed",
+			"100",
+			"printf",
+			"174536",
+			"174536 174535",
+			"174537",
+			"printf",
+			"head[%d",
+			"insertEdge",
+			";\n",
+			"totalThreads",
+			"0",
+			"isCutVertex",
+			"isCut",
+			"biconnected",
+			"postProcessing",
+			"lcaGraph[",
+			"lcaGraph.add",
+			"totalThreads",
+			"isCutVertex",
+			"totalThreads",
+			"adjustLCAGraph",
+			"lcaGraph.adjacencyList",
+			"lcaGraph",
+			"\t\n",
+			"totalThr",
+			"total",
+			"map",
+			"NUM_THR",
+			"omp",
+			"ROOT_NODE_ID",
+			"lParent",
+			"dummy",
+			"select_winner",
+			"lcaKernel",
+			"collectNonEdges",
+			"scanNonEdges",
+			"VertexId",
+			"gcc",
+			"g++",
+			"isLCA[LCAVertex]++",
+			"NIL",
+			"dummy",
+			"Gpu",
+			"omp_set",
+			"main",
+			"omp",
+			"totalTh",
+			"omp",
+			"+=",
+			"setOf",
+			"setOfT",
+			"931609",
+			"734076",
+			"6010",
+			"914941 0",
+			"cout",
+			"**",
+			"set<string>",
+			"If it is in two-dimension, w",
+			"set<string>",
+			"set<pair<int,int>>",
+			"set<string>",
+			"it = setOfTreeEdges[currU].find(currNonTreeEdge);\n\t\tif(it!= setOfTreeEdges[currU].end())\n\t\t\tsetOfTreeEdges[currU].erase(it);",
+			"destructLCAGraph",
+			"constructLCAGraph",
+			"destructLCAGraph",
+			"constructLCAGraph",
+			"findLCA",
+			"cout",
+			"388",
+			"Deleting Tree",
+			"tree edge",
+			"640",
+			"153 239",
+			"Affected",
+			"Afffect",
+			"Afffected ",
+			"153 239",
+			"Chirayu",
+			"153 239",
+			"Total",
+			"total",
+			"965",
+			"Lca Vertex is",
+			"edge",
+			"unweighteddge",
+			"edge",
+			"totalVer",
+			"AURORA",
+			"42 47",
+			"47 ",
+			"0 2",
+			"problem ",
+			"195207",
+			"195205",
+			"195209",
+			"195205",
+			"195209 195205 ",
+			"195205 195209",
+			"1,",
+			"vector",
+			"<<",
+			">>",
+			"162248",
+			"-7",
+			"-73740676",
+			"-73740676 40591504",
+			"i",
+			"newrL",
+			"newrR",
+			"newL"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"NUM_THREADS",
+			"lcaGraph.adjacencyList1",
+			"lcaGraph.adjacencyList",
+			"g++",
+			"gcc",
+			"++",
+			"*",
+			"set<pair<int,int>>",
+			"G.totalVer",
+			"temprL",
+			"temprR",
+			"tempL",
+			"tempR",
+			"nextPosition(direction,i,j,myArray,A);",
+			"bottom.x = curr.x+1;\n\t\t\t\tbottom.y = curr.y;\n\t\t\t\tq.push(bottom);"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "deleteEdge.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
