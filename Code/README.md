@@ -11,26 +11,40 @@
 ## 1. Static
 
 **Step 0: Compile the program**
+
 In the directory *Static*, open a terminal and write the following command:
+
 ```make```
+
 **Step 1: Run the program**
+
 ```./baseline <inputGraph> <totalNumberOfQueryFiles> <QueryFile1> <QueryFile2> ... output.txt```
 
 
 ## Incremental Dynamic
 
 **Step 0: Compile the program**
+
 In the directory *IncrementalDynamic*, open a terminal and write the following command:
+
 ```make```
+
 **Step 1: Run the program**
+
 ```./add <inputGraph> <totalNumberOfQueryFiles> <QueryFile1> <QueryFile2> ... output.txt```
 
 **Note:** The query files should strictly not have any delete batches as this is a incremental dynamic program. 
 
 ## Fully Dynamic
+
 In this version, we provide a spanning tree of inputGraph as an additional input.   
+
 **Step 0: Compile the program**
+
 In the directory *FullyDynamic*, open a terminal and write the following command:
+
 ```make```
+
 **Step 1: Run the program**
+
 ```./biconnected <inputGraph> <SpanningTree> <totalNumberOfQueryFiles> <QueryFile1> <QueryFile2> ... output.txt```
