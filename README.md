@@ -2,7 +2,7 @@
 
 ## Codes
 This directory contains the implementation of our algorithms. 
-The instructions to run these implementations is available inside the directory of respective implementations.
+The instructions to run these implementations is available in [README](Code/README.md) file inside the directory.
 
 ## Reports
 The directory *Reports* includes an extended version of our paper. 
