@@ -21,7 +21,7 @@ In the directory *Static*, open a terminal and write the following command:
 ```./baseline <inputGraph> <totalNumberOfQueryFiles> <QueryFile1> <QueryFile2> ... output.txt```
 
 
-## Incremental Dynamic
+## 2. Incremental Dynamic
 
 **Step 0: Compile the program**
 
@@ -35,7 +35,7 @@ In the directory *IncrementalDynamic*, open a terminal and write the following c
 
 **Note:** The query files should strictly not have any delete batches as this is a incremental dynamic program. 
 
-## Fully Dynamic
+## 3. Fully Dynamic
 
 In this version, we provide a spanning tree of inputGraph as an additional input.   
 
