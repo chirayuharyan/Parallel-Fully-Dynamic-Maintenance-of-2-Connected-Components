@@ -1,5 +1,8 @@
 # Parallel Fully Dynamic Maintenance of 2-Connected Components <mark>(Please download the report and view as sometimes the document doesn't render well on this platform.)</mark>
 
+## Extended Version of Paper
+This repository consist Extended Version of the paper. [Click here](Reports/IPDPS_2022__Extended____Dynamic_BCC.pdf) for quick link to the paper. <mark>Please download and view the file as it might not render well on this platform.</mark>
+
 ## Codes
 This directory contains the implementation of our algorithms. 
 The instructions to run these implementations is available in [README](Code/README.md) file inside the directory.
