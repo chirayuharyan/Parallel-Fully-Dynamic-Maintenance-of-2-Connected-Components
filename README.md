@@ -1,4 +1,4 @@
-# Parallel Fully Dynamic Maintenance of 2-Connected Components
+# Parallel Fully Dynamic Maintenance of 2-Connected Components <mark>(Please download the report and view as sometimes the document doesn't render well on this platform.)</mark>
 
 ## Codes
 This directory contains the implementation of our algorithms. 
